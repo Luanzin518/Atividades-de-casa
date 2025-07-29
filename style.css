@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* Essa ´propriedade serve para corrigir errdos de acentuação, mas não é obrigatório */
+
+body{
+    background-image: linear-gradient(90deg,black,white);
+    /* background-image: radial- gradient(circle,black,white);*/
+}
+p {
+
+    
+    color: #DDB91C;
+}
